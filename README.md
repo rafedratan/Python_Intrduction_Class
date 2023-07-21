@@ -1,2 +1,2 @@
-# Python_Intrduction_Class
-Starting to learn python.
+# Python_Introduction_Class
+Starting to learn Python.
